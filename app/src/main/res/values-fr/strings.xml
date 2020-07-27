@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaterialMe_v3</string>
+    <string name="title_placeholder">Titre</string>
+    <string name="news_placeholder">Nouvelles</string>
+    <string name="sports_info_placeholder">Voici quelques nouvelles</string>
+    <string name="subTitleDetail_text">Lorem Ipsum est tout simplement un texte factice de l\'industrie de l\'impression et de la composition. Lorem Ipsum est le texte factice standard de l\'industrie depuis les années 1500, lorsqu\'une imprimante inconnue a pris une cuisine de type et l\'a brouillée pour créer un livre type. Il a survécu non seulement à cinq siècles, mais aussi au saut dans la composition électronique, demeurant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de PAO comme Aldus PageMaker incluant des versions de Lorem Ipsum.</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball-fr</item>
+        <item>Badminton-fr</item>
+        <item>Basketball-fr</item>
+        <item>Bowling-fr</item>
+        <item>Cycling-fr</item>
+        <item>Golf-fr</item>
+        <item>Running-fr</item>
+        <item>Football-fr</item>
+        <item>Swimming-fr</item>
+        <item>Table Tennis-fr</item>
+        <item>Tennis-fr</item>
+    </string-array>
+
+</resources>
